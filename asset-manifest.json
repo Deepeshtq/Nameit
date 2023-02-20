@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Nameit/static/css/main.6f7ac89c.css",
+    "main.js": "/Nameit/static/js/main.803cbe87.js",
+    "index.html": "/Nameit/index.html",
+    "main.6f7ac89c.css.map": "/Nameit/static/css/main.6f7ac89c.css.map",
+    "main.803cbe87.js.map": "/Nameit/static/js/main.803cbe87.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f7ac89c.css",
+    "static/js/main.803cbe87.js"
+  ]
+}
